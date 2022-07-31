@@ -1,0 +1,3 @@
+[*.java]
+ij_java_imports_layout = $*,|,*
+ij_java_layout_static_imports_separately = true
