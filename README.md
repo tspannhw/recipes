@@ -13,6 +13,7 @@ Each recipe is a self-contained module.
 7. [Capturing Late Data](late-data-to-sink) -> [Detailed explanation](https://docs.immerok.cloud/docs/cookbook/capturing-late-data-and-send-to-separate-sink-with-apache-flink/)
 8. [Creating Dead Letter Queues](kafka-dead-letter) -> [Detailed explanation](https://docs.immerok.cloud/docs/cookbook/creating-dead-letter-queues-from-and-to-apache-kafka-with-apache-flink/)
 9. [Using Session Windows](session-window) -> [Detailed explanation](https://docs.immerok.cloud/docs/cookbook/using-session-windows/)
+10. [Serializing Timestamped Data](latest-transaction) -> [Detailed explanation](https://docs.immerok.cloud/docs/cookbook/serializing-timestamped-data/)
 
 ### Requirements
 
